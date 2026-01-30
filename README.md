@@ -1,5 +1,7 @@
 🏥 Insurance-Price-Prediction
 This project focuses on building a Machine Learning model to predict medical insurance charges based on customer demographic and health-related attributes. The complete workflow includes data cleaning, exploratory data analysis (EDA), feature engineering, and predictive modeling.
+
+
 📊 Project Overview
 
 Medical insurance costs vary significantly depending on factors such as age, BMI, smoking habits, and region. The objective of this project is to analyze these patterns and develop a regression model that can accurately estimate insurance charges for new individuals.
